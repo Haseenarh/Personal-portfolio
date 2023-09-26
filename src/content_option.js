@@ -1,6 +1,7 @@
 import LandingPage from './assets/images/landing-page.png';
 import MovieApp from './assets/images/Movie-app.png';
 import GalleryApp from './assets/images/Image-gallery.png'
+import WhatsAppImage from './assets/images/WhatsApp Image 2023-09-26 at 12.24.13 PM.jpeg'
 
 const logotext = "HASSANAT";
 const meta = {
@@ -16,7 +17,7 @@ const introdata = {
         third: "I build amazing websites",
     },
     description: "Hassanat Bello is a proficient and detail-oriented Frontend Developer with 1 year of experience, creating innovative and user-friendly websites and web applications. With a deep understanding of modern web development technologies and frameworks, Hassanat is dedicated to developing visually appealing and intuitive interfaces that meet user needs and exceed client expectations.",
-    your_img_url: "https://images.unsplash.com/photo-1509395062183-67c5ad6faff9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1780&q=80",
+    img: WhatsAppImage,
 };
 
 const dataabout = {
