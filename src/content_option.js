@@ -16,7 +16,7 @@ const introdata = {
         third: "I build amazing websites",
     },
     description: "Hassanat Bello is a proficient and detail-oriented Frontend Developer with 1 year of experience, creating innovative and user-friendly websites and web applications. With a deep understanding of modern web development technologies and frameworks, Hassanat is dedicated to developing visually appealing and intuitive interfaces that meet user needs and exceed client expectations.",
-    your_img_url: "https://github.com/Haseenarh/Personal-portfolio/blob/65dc11576f777a4c49c3e2121ef5fba1f61aa1d6/src/assets/images/WhatsApp%20Image%202023-09-26%20at%2012.24.13%20PM.jpeg",
+    your_img_url: "https://images.unsplash.com/photo-1509395062183-67c5ad6faff9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1780&q=80",
 };
 
 const dataabout = {
